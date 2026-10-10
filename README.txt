@@ -1,0 +1,1 @@
+Simulador 212 — site estático para GitHub Pages. Apenas simulação manual; sem corretora, feed ou ordens reais. Cotações em EUR guardadas no localStorage.
